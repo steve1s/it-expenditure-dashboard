@@ -1,4 +1,5 @@
 IT Expenditure Dashboard
+---
 This repository contains the files for an IT Expenditure Dashboard, designed to visualize and analyze IT spending data. The dashboard provides insights into various expenditure categories, helping to track budgets and make informed financial decisions.
 ---
 📜 Description
